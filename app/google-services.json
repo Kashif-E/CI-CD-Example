@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077191582088",
+    "project_id": "ci-cdexample",
+    "storage_bucket": "ci-cdexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077191582088:android:ae0d779b5517b299ab9a3d",
+        "android_client_info": {
+          "package_name": "com.kashif.cicdexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077191582088-8if89mt9khurh4mckvjrojbic72hr3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8WhwFSdoIZHKHbgTLhD1M_K-89fxl6lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077191582088-8if89mt9khurh4mckvjrojbic72hr3lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
