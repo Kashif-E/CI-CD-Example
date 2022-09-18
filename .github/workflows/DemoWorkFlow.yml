@@ -3,6 +3,8 @@ on:
   push:
     branches: [ master ]
 jobs:
+  my-job:
     runs-on: ubuntu-latest
     steps:
-      - echo "$GITHUB.REPOSITORY"
+      - name: demo-step
+        run: echo "Hello World!"
