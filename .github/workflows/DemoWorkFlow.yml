@@ -3,7 +3,6 @@ on:
   push:
     branches: [ master ]
 jobs:
-  deploy:
     runs-on: ubuntu-latest
     steps:
-      - echo "Hello World"
+      - echo "$GITHUB.REPOSITORY"
