@@ -3,6 +3,7 @@ on:
   push:
     branches: [ master ]
 jobs:
-  runs-on: ubuntu-latest
-  steps:
-    - echo "Hello World"
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - echo "Hello World"
